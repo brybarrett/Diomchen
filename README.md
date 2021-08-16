@@ -14,8 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![DiomChen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diomchen)](https://github.com/Diomchen/github-readme-stats)
+- 🔭 I’m currently working in BlockChain feild
+- 🌱 I’m currently learning Neo4j, mongo etc...
+- 📫 How to reach me: cshever999@gmail.com
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diomchen&layout=compact)](https://github.com/Diomchen/github-readme-stats)
+
+[![DiomChen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diomchen)](https://github.com/Diomchen/github-readme-stats)
 
 
 
