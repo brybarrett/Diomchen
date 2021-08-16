@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: cshever999@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diomchen&layout=compact&show_icons=true&theme=cobalt)
-)](https://github.com/Diomchen/github-readme-stats)[![DiomChen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diomchen)](https://github.com/Diomchen/github-readme-stats&show_icons=true&theme=cobalt)
-)
+)](https://github.com/Diomchen/github-readme-stats) [![DiomChen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diomchen)](https://github.com/Diomchen/github-readme-stats&show_icons=true&theme=cobalt)
 
 
 
