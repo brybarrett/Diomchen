@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there![](https://github.com/mvximenko/mvximenko/raw/main/wave.gif)
 
 <!--
 **Diomchen/Diomchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
