@@ -1,4 +1,4 @@
-### Hi there! <img src="https://github.com/mvximenko/mvximenko/raw/main/wave.gif" alt="Wave Emoji"  width="22.5px" />
+### Hi Here! <img src="https://github.com/mvximenko/mvximenko/raw/main/wave.gif" alt="Wave Emoji"  width="22.5px" />
 
 <!--
 **Diomchen/Diomchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
