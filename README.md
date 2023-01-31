@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 #### Welcome to Diomchen's Github!
 - 🔭 I’m currently working in BlockChain feild
-- 🌱 I’m currently learning Neo4j, mongo etc...
+- 🌱 My field of work includes Secure Multi-Party Computation, Base of Blockchain, Private Information Retrieval, IPFS ... 
 - 📫 How to reach me: cshever999@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diomchen&layout=compact&show_icons=true&theme=dracula)](https://github.com/Diomchen/github-readme-stats)
