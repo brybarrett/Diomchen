@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 #### Welcome to Diomchen's Github!
 - 🔭 I’m currently working in BlockChain feild
-- 🌱 My field of work includes Secure Multi-Party Computation, Base of Blockchain, Private Information Retrieval, IPFS ... 
-- 📫 How to reach me: cshever999@gmail.com
+- 🌱 My field of work includes Federated learning, Secure Multi-Party Computation, Base of Blockchain, Private Information Retrieval, IPFS ...
+- 🌱 Sometimes, I'd love to dev some interest tools on chain, specifically on Solana.
+- 📫 DM: cshever999@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diomchen&layout=compact&show_icons=true&theme=dracula)](https://github.com/Diomchen/github-readme-stats)
-
 [![DiomChen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diomchen&show_icons=true&theme=dracula)](https://github.com/Diomchen/github-readme-stats)
 
 
