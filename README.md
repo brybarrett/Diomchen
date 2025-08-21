@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### Welcome to Diomchen's Github!
-- 🔭 I’m currently working in BlockChain feild
-- 🌱 My field of work includes Federated learning, Secure Multi-Party Computation, Base of Blockchain, Private Information Retrieval, IPFS ...
-- 🌱 Sometimes, I'd love to dev some interest tools on chain, specifically on Solana.
+- 🔭 I’m currently working in the blockchain && AI field.
+- 🌱 My areas of expertise include federated learning, secure multi-party computation, blockchain fundamentals, private information retrieval, IPFS, and more.
+- ✨ I also enjoy developing interesting on-chain tools, especially on Solana.
 - 📫 DM: cshever999@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diomchen&layout=compact&show_icons=true&theme=dracula)](https://github.com/Diomchen/github-readme-stats)
